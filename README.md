@@ -1,25 +1,29 @@
 ## 🙋🏻‍♀️ Introducing Myself
 
-![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/Salvatore-Rocha/private_salvatore/blob/main/Images/HeaderGTHB.png)
+![Personal Banner](https://github.com/Salvatore-Rocha/private_salvatore/blob/main/Images/HeaderGTHB.png)
 
-Hello, I'm Katie. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling. 
+Hello, I'm Eduardo a Data Scientist and Innovation Manager with expertise in 
 
-- Querying data using SQL.
-- Generate reports and perform ad-hoc data analysis using SQL.
-- Developing dashboards on Tableau and Looker Studio.
-- Data analysis and reporting using Google Sheets and Excel.
-
-### 📚 Projects
-
-Welcome to my portfolio, where I showcase my [projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md).
+- Machine Learning algorithms (regression, Classification, Clustering, Dimensionality Reduction)
+- Deep Learning (Generative, Adversarial, Autoencoders, LSTM networks) 
+- Generate reports, data analysis, and data visualizations ad-hoc (SQL, Dash, R, Python Libraries).
+- Data analysis and dashboard creation.
+- Consumer Behavior Analysis (A/B Testing, Risk Assessment, Market Segmentation)
+- Product Testing and Quality Control
+- Predictive Analytics
+- Decision Making and Product Portfolio Optimization
+- Product development (software, web pages, and consumer goods)
 
 ### 🛠️ Tools
 
-- Language: SQL, Python
-- Database: Google BigQuery, PostgreSQL, MySQL
-- Visualization: Tableau, Looker Studio
+- Languages: SQL, Python, R
+- Machine learning and Deep Neural Networks: Python (Tensorflow)
+- Databases: MySQL, Azure, Google BigQuery
+- Visualization: Tableau, Power BI, Python Libraries (Plotly/Dash, Bokeh, matplot, etc)
+- Statistics: Minitab, SAS, Rstudio, Python Libraries (SciPy, Statsmodels, etc)
+- Colaborative work: Miro
+- Project Management tools: Jira, Zoho Projects, MS Project, Trello, MS Planner  
 
 ### 👋🏻 Connect with Me
 
-- [Linkedin](https://www.linkedin.com/in/katiehuangx/)
-- Hire me on [Upwork](https://www.upwork.com/freelancers/~016ea4ffe7d7d64c1d)
+- [Linkedin](https://www.linkedin.com/in/salvador-rocha/)
