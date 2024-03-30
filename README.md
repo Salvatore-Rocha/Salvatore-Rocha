@@ -1,4 +1,4 @@
-## 🙋🏻‍♀️ Hello World!
+## 👾 Hello World!
 
 ![Personal Banner](https://github.com/Salvatore-Rocha/private_salvatore/blob/main/Images/HeaderGTHB.png)
 
