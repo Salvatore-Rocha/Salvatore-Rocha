@@ -1,9 +1,8 @@
-## 🙋🏻‍♀️ Introducing Myself
+## 🙋🏻‍♀️ Hello World!
 
 ![Personal Banner](https://github.com/Salvatore-Rocha/private_salvatore/blob/main/Images/HeaderGTHB.png)
 
-Hello! 
-### 🔬 🔭 I'm Eduardo a Data Scientist and Innovation Manager with expertise in 
+### 🔬 🔭 My name is Eduardo and I'm a Data Scientist and Innovation Manager with expertise in 
 
 - Machine Learning algorithms (regression, Classification, Clustering, Dimensionality Reduction)
 - Deep Learning (Generative, Adversarial, Autoencoders, LSTM networks) 
