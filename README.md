@@ -1,6 +1,6 @@
 ## 👾 Hello World!
 
-![Personal Banner](https://github.com/Salvatore-Rocha/private_salvatore/blob/main/Images/HeaderGTHB.png)
+![Personal Banner](https://github.com/Salvatore-Rocha/Salvatore-Rocha/blob/06b2b08d32ccca5bd52e034a45c29fa6d9ba0de4/Imgs/HeaderGTHB.png)
 
 ### 🔬 🔭 My name is Eduardo and I'm a Data Scientist and Innovation Manager with expertise in 
 
