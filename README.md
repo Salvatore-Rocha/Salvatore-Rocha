@@ -27,3 +27,7 @@
 ### 👋🏻 Connect with Me
 
 - [Linkedin](https://www.linkedin.com/in/salvador-rocha/)
+
+### 📝 📖 Some of my work
+
+- [Algorithmic Trading](https://publikationen.bibliothek.kit.edu/1000138284)
