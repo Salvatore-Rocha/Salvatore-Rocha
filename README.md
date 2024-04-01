@@ -31,3 +31,4 @@
 ### 📝 📖 Some of my work
 
 - [Algorithmic Trading](https://publikationen.bibliothek.kit.edu/1000138284)
+- [Energy Cost Optimization for a 4-Machine-in-sequence problem](https://publikationen.bibliothek.kit.edu/1000138284)
