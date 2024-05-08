@@ -20,7 +20,7 @@
 
 ### 📝 📖 Some of my work
 
-- [Market Watch: Dynamic Stock Tracker (Web Service App - Could take up to 50 secs to load 😅)](https://market-watch-a-dynamic-stock-tracker.onrender.com/)
+- [Market Watch: Dynamic Stock Tracker (Web Service App - Could take up to 50 secs to load 😅)](https://market-watch-a-dynamic-stock-tracker.onrender.com/){:target="_blank"}
 - [Algorithmic Trading (Published Article)](https://publikationen.bibliothek.kit.edu/1000138284)
 - [Energy Cost Optimization for a 4-Machine-in-sequence problem (Thesis)](https://github.com/Salvatore-Rocha/Thesis-Heuristic-FSP/blob/dbf2717aee53562325237f2761a8f32c0bbedfc6/A%20Heuristic%20Approach%20to%20the%20Flow%20Shop%20Scheduling%20Problem%20with%20Time-Varying%20Electricity%20Prices.pdf)
 
