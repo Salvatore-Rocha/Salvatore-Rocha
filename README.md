@@ -21,7 +21,7 @@ _Please use use CTRL+click to open these links in a new tab_ 😜
 - [Algorithmic Trading](https://publikationen.bibliothek.kit.edu/1000138284) <sub>📄 _Published Article_ </sub>
 - [Energy Cost Optimization for a 4-Machine-in-sequence problem](https://github.com/Salvatore-Rocha/Salvatore-Rocha/blob/0b0cc29c0a127d96cbc5180c33ad409a96ba2469/Docs/Masters_Thesis_Eduardo.pdf) <sub>📄 _Master's Thesis_ </sub>
 - [Hyperparameter Optimization Techniques](https://github.com/Salvatore-Rocha/Salvatore-Rocha/blob/0b0cc29c0a127d96cbc5180c33ad409a96ba2469/Docs/Hyper%20Parameter%20Optimization.pdf) <sub>📄 _Deep Learning Seminar_ </sub>
-- [Emotions Recognition and Image Generation](https://github.com/Salvatore-Rocha/Salvatore-Rocha/blob/0b0cc29c0a127d96cbc5180c33ad409a96ba2469/Docs/EMO_VAE.pdf) <sub>📄 _Deep Learning Seminar_ </sub>
+- [Emotions Recognition and Image Generation](https://github.com/Salvatore-Rocha/Salvatore-Rocha/blob/0b0cc29c0a127d96cbc5180c33ad409a96ba2469/Docs/EMO_VAE.pdf) <sub>📄 _Deep Learning Project_ </sub>
 ### 👋🏻 Connect with Me
 
 - [Linkedin](https://www.linkedin.com/in/salvador-rocha/)
