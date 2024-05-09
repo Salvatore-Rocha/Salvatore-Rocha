@@ -18,7 +18,7 @@
 
 _Please use use CTRL+click to open these links in a new tab_ 😜
 - [Market Watch: Dynamic Stock Tracker ](https://market-watch-a-dynamic-stock-tracker.onrender.com/) <sub>🤖⚙️ _A Dynamic Dash App to visualize stocks Data (can take up to 50 secs to Load)_ 🥺 </sub>
-  ↘️  <sub> Repo: [Market Watch: Dynamic Stock Tracker Repo ](https://github.com/Salvatore-Rocha/Stocks_reader) </sub>
+  - ↘️  <sub> Repo: [Market Watch: Dynamic Stock Tracker Repo ](https://github.com/Salvatore-Rocha/Stocks_reader) </sub>
 - [Algorithmic Trading using LSTMs with Markowitz Portfolios](https://publikationen.bibliothek.kit.edu/1000138284) <sub>📄 _Published Article - Deep Learning_ </sub>
 - [Energy Cost Optimization for a 4-Machine-in-sequence problem](https://github.com/Salvatore-Rocha/Salvatore-Rocha/blob/0b0cc29c0a127d96cbc5180c33ad409a96ba2469/Docs/Masters_Thesis_Eduardo.pdf) <sub>📄 _Master's Thesis_ </sub>
 - [Hyperparameter Optimization Techniques](https://github.com/Salvatore-Rocha/Salvatore-Rocha/blob/0b0cc29c0a127d96cbc5180c33ad409a96ba2469/Docs/Hyper%20Parameter%20Optimization.pdf) <sub>📄 _Deep Learning Seminar_ </sub>
