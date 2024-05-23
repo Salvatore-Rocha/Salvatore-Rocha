@@ -17,6 +17,8 @@
 ### 📝 📖 Some of my work
 
 _Please use use CTRL+click to open these links in a new tab_ 😜
+- [Supermarket Sales Dashboard: Metrics of Myanmar HUB](https://urban-insights-predict-and-visualize.onrender.com/) <sub>🤖⚙️ _A Dynamic Dash App on Render of a Dashboard for Sales and Rating Prediction (can take up to 50 secs to Load)_ 🥺 </sub>
+  - <sub> ↘️ Repository: [Supermarket Sales Dashboard: Metrics of Myanmar HUB](https://github.com/Salvatore-Rocha/Supermarket-sales) </sub>
 - [Market Watch: Dynamic Stock Tracker ](https://market-watch-a-dynamic-stock-tracker.onrender.com/) <sub>🤖⚙️ _A Dynamic Dash App to visualize stocks Data (can take up to 50 secs to Load)_ 🥺 </sub>
   - <sub> ↘️ Repository: [Market Watch: Dynamic Stock Tracker](https://github.com/Salvatore-Rocha/Stocks_reader) </sub>
 - [Algorithmic Trading using LSTMs with Markowitz Portfolios](https://publikationen.bibliothek.kit.edu/1000138284) <sub>📄 _Published Article - Deep Learning_ </sub>
