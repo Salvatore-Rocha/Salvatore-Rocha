@@ -16,7 +16,7 @@
 
 ### 📝 📖 Some of my work
 
-_Please use use CTRL+click to open these links in a new tab_ 😜 <sub>_ Apps on render can take up to 30-60 seconds to Load)_ 🥺 </sub>
+_Please use use CTRL+click to open these links in a new tab_ 😜 <sub> _Apps on render can take up to 30-60 seconds to Load)_ 🥺 </sub>
 - [Supermarket Sales Dashboard: Predicting and visualizing Metrics of Myanmar HUB](https://urban-insights-predict-and-visualize.onrender.com/) <sub>🤖⚙️ _A Dynamic Dash App on Render of a Dashboard for Sales and Rating Prediction_  </sub>
   - <sub> ↘️ Repository: [Supermarket Sales Dashboard: Predicting and visualizing Metrics of Myanmar HUB](https://github.com/Salvatore-Rocha/Supermarket-sales) </sub>
 - [Market Watch: Dynamic Stock Tracker ](https://market-watch-a-dynamic-stock-tracker.onrender.com/) <sub>🤖⚙️ _A Dynamic Dash App on Render to fetch and visualize stocks Data_ </sub>
