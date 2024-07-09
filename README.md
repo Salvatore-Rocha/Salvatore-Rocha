@@ -4,10 +4,10 @@
 
 ### 🔬 🔭 I'm a Data Scientist and Innovation Manager with expertise in 
 
-- Machine Learning algorithms (regression, Classification, Clustering, Dimensionality Reduction)
+- Machine Learning algorithms (Regression, Classification, Clustering, Dimensionality Reduction)
 - Deep Learning (Generative, Adversarial, Autoencoders, LSTM networks) 
 - Generate reports, data analysis, and data visualizations ad-hoc (SQL, Dash, R, Python Libraries).
-- Data analysis and dashboard creation.
+- Data analysis and dashboards creation.
 - Consumer Behavior Analysis (A/B Testing, Risk Assessment, Market Segmentation)
 - Product Testing and Quality Control
 - Predictive Analytics
