@@ -3,7 +3,7 @@
 ![Personal Banner](https://github.com/Salvatore-Rocha/Salvatore-Rocha/blob/06b2b08d32ccca5bd52e034a45c29fa6d9ba0de4/Imgs/HeaderGTHB.png)
 
 ### 🔬 🔭 I'm a Data Scientist and Innovation Manager with expertise in 
-
+- Project Management & R&D Product Development (Start-ups Incubation-Launch-Deployment, Web pages, and Consumer goods)
 - Machine Learning algorithms (Regression, Classification, Clustering, Dimensionality Reduction)
 - Deep Learning (Generative, Adversarial, Autoencoders, LSTM networks) 
 - Generate reports, data analysis, and data visualizations ad-hoc (SQL, Dash, R, Python Libraries).
@@ -12,7 +12,6 @@
 - Product Testing and Quality Control
 - Predictive Analytics
 - Decision Making and Product Portfolio Optimization
-- Product development (software, web pages, and consumer goods)
 
 ### 📝 📖 Some of my work
 
