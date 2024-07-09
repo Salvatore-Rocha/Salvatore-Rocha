@@ -16,12 +16,17 @@
 
 ### 📝 📖 Some of my work
 
-_Please use use CTRL+click to open these links in a new tab_ 😜 <sub> _Note: Apps on render can take up to 30-60 seconds to Load_ 🥺 </sub>
-- [Supermarket Sales Dashboard: Predicting and visualizing Metrics of Myanmar HUB](https://urban-insights-predict-and-visualize.onrender.com/)
+_Please use use CTRL+click to open these links in a new tab_ 😜
 
-   <sub>🤖⚙️ _A Dynamic Dash App on Render of a Dashboard for Sales and Rating Prediction_  </sub>
+👀 _**Note**_ 👀: _The Dash apps are hosted on Render's free tier, which will spin them down during inactivity. This can cause delays of 50 seconds or more for requests/loading, so please be patient._ 🥺 
+- [GIS App Viewer: Discover Mexico City's Airbnb Scene](https://discover-mexico-citys-airbnb-scene.onrender.com/)
+  - <sub>🤖⚙️ _An app that displays the Geographic Information System (GIS) data of an Airbnb dataset for Mexico City_  </sub>
+  - <sub> ↘️ Repository: [Discover Mexico City's Airbnb Scene](https://github.com/Salvatore-Rocha/GIS_Dataviewer/) </sub>
+- [Supermarket Sales Dashboard: Predicting and visualizing Metrics of Myanmar HUB](https://urban-insights-predict-and-visualize.onrender.com/)
+  - <sub>🤖⚙️ _A Dynamic App and Dashboard on Render to showcase Key metrics, and Sales/Store Rating Predictions_  </sub>
   - <sub> ↘️ Repository: [Supermarket Sales Dashboard: Predicting and visualizing Metrics of Myanmar HUB](https://github.com/Salvatore-Rocha/Supermarket-sales) </sub>
-- [Market Watch: Dynamic Stock Tracker ](https://market-watch-a-dynamic-stock-tracker.onrender.com/) <sub>🤖⚙️ _A Dynamic Dash App on Render to fetch and visualize stocks Data_ </sub>
+- [Market Watch: Dynamic Stock Tracker ](https://market-watch-a-dynamic-stock-tracker.onrender.com/)
+  - <sub> 🤖⚙️ _A Dynamic Dash App on Render to fetch and visualize stocks Data_ </sub>
   - <sub> ↘️ Repository: [Market Watch: Dynamic Stock Tracker](https://github.com/Salvatore-Rocha/Stocks_reader) </sub>
 - [Algorithmic Trading using LSTMs with Markowitz Portfolios](https://publikationen.bibliothek.kit.edu/1000138284) <sub>📄 _Published Article - Deep Learning_ </sub>
 - [Energy Cost Optimization for a 4-Machine-in-sequence problem](https://github.com/Salvatore-Rocha/Salvatore-Rocha/blob/0b0cc29c0a127d96cbc5180c33ad409a96ba2469/Docs/Masters_Thesis_Eduardo.pdf) <sub>📄 _Master's Thesis_ </sub>
