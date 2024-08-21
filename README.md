@@ -20,8 +20,8 @@ _Please use use CTRL+click to open these links in a new tab_ 😜
 👀 _**Note**_ 👀: _The Dash apps are hosted on Render's free tier, which will spin them down during inactivity. This can cause delays of 50 seconds or more for requests/loading, so please be patient._ 🥺 
 - 🏦  [Behavioral Economics: Designing Experiments to Increase Loan Agreement Rates via Santander Bank's Mobile App and the NSS of Adverse Action Notices](https://github.com/Salvatore-Rocha/Salvatore-Rocha/blob/a7e1346865aa0f7f7d44238425b25d2ec8bf4595/Docs/Lim_Behavioural_Economics_Santander_Eduardo%20Salvador%20Rocha.pdf)  <sub>📄 _This document is in Spanish_ </sub>
   
-- [GIS App Viewer: Discover Mexico City's Airbnb Scene](https://discover-mexico-citys-airbnb-scene.onrender.com/)
-  - <sub>🤖⚙️ _An app that displays the Geographic Information System (GIS) data of an Airbnb dataset for Mexico City_  </sub>
+- [Geographic Information System (GIS): Discover Mexico City's Airbnb Scene](https://discover-mexico-citys-airbnb-scene.onrender.com/)
+  - <sub>🤖⚙️ _Geographic Information System (GIS) data of Airbnb Density, Clustering, Price and Review Breakdown for Mexico City's Neighborhoods and Alcaldía_  </sub>
   - <sub> ↘️ Repository: [Discover Mexico City's Airbnb Scene](https://github.com/Salvatore-Rocha/GIS_Dataviewer/) </sub>
 - [Supermarket Sales Dashboard: Predicting and visualizing Metrics of Myanmar HUB](https://urban-insights-predict-and-visualize.onrender.com/)
   - <sub>🤖⚙️ _A Dynamic App and Dashboard on Render to showcase Key metrics, and Sales/Store Rating Predictions_  </sub>
