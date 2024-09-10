@@ -29,10 +29,11 @@ _Please use use CTRL+click to open these links in a new tab_ 😜
 - [Market Watch: Dynamic Stock Tracker ](https://market-watch-a-dynamic-stock-tracker.onrender.com/)
   - <sub> 🤖⚙️ _A Dynamic Dash App on Render to fetch and visualize stocks Data_ </sub>
   - <sub> ↘️ Repository: [Market Watch: Dynamic Stock Tracker](https://github.com/Salvatore-Rocha/Stocks_reader) </sub>
-- [Algorithmic Trading using LSTMs with Markowitz Portfolios](https://publikationen.bibliothek.kit.edu/1000138284) <sub>📄 _Published Article - Deep Learning_ </sub>
-- [Energy Cost Optimization for a 4-Machine-in-sequence problem](https://github.com/Salvatore-Rocha/Salvatore-Rocha/blob/0b0cc29c0a127d96cbc5180c33ad409a96ba2469/Docs/Masters_Thesis_Eduardo.pdf) <sub>📄 _Master's Thesis_ </sub>
-- [Hyperparameter Optimization Techniques](https://github.com/Salvatore-Rocha/Salvatore-Rocha/blob/0b0cc29c0a127d96cbc5180c33ad409a96ba2469/Docs/Hyper%20Parameter%20Optimization.pdf) <sub>📄 _Deep Learning Seminar_ </sub>
-- [Emotions Recognition and Image Generation](https://github.com/Salvatore-Rocha/Salvatore-Rocha/blob/0b0cc29c0a127d96cbc5180c33ad409a96ba2469/Docs/EMO_VAE.pdf) <sub>📄 _Deep Learning Project_ </sub>
+- [Algorithmic Trading using LSTMs price forecasts & Markowitz Portfolio Optimizaition](https://publikationen.bibliothek.kit.edu/1000138284) <sub>📄 _Published Article - Deep Learning_ </sub>
+- [Heuristic Solutions & Genetic Algorithms: An Energy Cost Optimization problem for a 4-Machine-in-sequence case](https://github.com/Salvatore-Rocha/Salvatore-Rocha/blob/0b0cc29c0a127d96cbc5180c33ad409a96ba2469/Docs/Masters_Thesis_Eduardo.pdf) <sub>📄 _Master's Thesis_ </sub>
+- [Paper Review: Hyperparameter Optimization Techniques](https://github.com/Salvatore-Rocha/Salvatore-Rocha/blob/0b0cc29c0a127d96cbc5180c33ad409a96ba2469/Docs/Hyper%20Parameter%20Optimization.pdf) <sub>📄 _Deep Learning Seminar_ </sub>
+- [Deep Learning Varational Autoencoders: Emotions Recognition and Image Generation](https://github.com/Salvatore-Rocha/Salvatore-Rocha/blob/0b0cc29c0a127d96cbc5180c33ad409a96ba2469/Docs/EMO_VAE.pdf) <sub>📄 _Deep Learning Project_ </sub>
+- [Heterogeneous Graphs Models: Event Detection (Trends) and Forecasting In Social Media - Twitter Case](https://github.com/Salvatore-Rocha/Salvatore-Rocha/blob/4780a9334c5782ea7f76558339509b04a6fad147/Docs/Seminar%20Report%20DA%20I_%20Event%20Dection.pdf) <sub>📄 _Paper Review_ </sub>
 ### 👋🏻 Connect with Me
 
 - [Linkedin](https://www.linkedin.com/in/salvador-rocha/)
