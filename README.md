@@ -13,6 +13,12 @@
 - Predictive Analytics
 - Decision Making and Product Portfolio Optimization
 
+### 👋🏻 Connect with Me
+
+- [Linkedin](https://www.linkedin.com/in/salvador-rocha/)
+- 📧 Mail: [salvador.rocha.e@gmail.com](mailto:salvador.rocha.e@gmail.com)
+- 🧑🏽‍💼 Full Cv: [Curriculum (English)](https://docs.google.com/document/d/e/2PACX-1vS-F7OuOsxTaji37sL4JdtqKQBFybVgOMmQNTUQGykbZ1ZhlfLGaXs8Hh2hHykLjL3tbYl908fOH44m/pub)
+
 ### 📝 📖 Some of my work
 
 _Please use use CTRL+click to open these links in a new tab_ 😜
@@ -34,9 +40,6 @@ _Please use use CTRL+click to open these links in a new tab_ 😜
 - [Paper Review: Hyperparameter Optimization Techniques](https://github.com/Salvatore-Rocha/Salvatore-Rocha/blob/0b0cc29c0a127d96cbc5180c33ad409a96ba2469/Docs/Hyper%20Parameter%20Optimization.pdf) <sub>📄 _Deep Learning Seminar_ </sub>
 - [Deep Learning Varational Autoencoders: Emotions Recognition and Image Generation](https://github.com/Salvatore-Rocha/Salvatore-Rocha/blob/0b0cc29c0a127d96cbc5180c33ad409a96ba2469/Docs/EMO_VAE.pdf) <sub>📄 _Deep Learning Project_ </sub>
 - [Heterogeneous Graph Models: Event Detection (Trends) and Forecasting them in Social Media - Twitter Case](https://github.com/Salvatore-Rocha/Salvatore-Rocha/blob/4780a9334c5782ea7f76558339509b04a6fad147/Docs/Seminar%20Report%20DA%20I_%20Event%20Dection.pdf) <sub>📄 _Paper Review_ </sub>
-### 👋🏻 Connect with Me
-
-- [Linkedin](https://www.linkedin.com/in/salvador-rocha/)
   
 ### 🛠️ Tools
 
