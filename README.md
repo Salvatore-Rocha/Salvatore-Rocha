@@ -21,7 +21,7 @@
 
 ### 📝 📖 Some of my work
 
-_Please use use CTRL+click to open these links in a new tab_ 😜
+_If you are viewing this profile from a PC, please use use CTRL+click to open these links in a new tab_ 😜
 
 👀 _**Note**_ 👀: _The Dash apps are hosted on Render's free tier, which will spin them down during inactivity. This can cause delays of 50 seconds or more for requests/loading, so please be patient._ 🥺 
 - 🏦  [Behavioral Economics: Designing Experiments to Increase Loan Agreement Rates via Santander Bank's Mobile App and the NSS of Adverse Action Notices](https://github.com/Salvatore-Rocha/Salvatore-Rocha/blob/a7e1346865aa0f7f7d44238425b25d2ec8bf4595/Docs/Lim_Behavioural_Economics_Santander_Eduardo%20Salvador%20Rocha.pdf)  <sub>📄 _This document is in Spanish_ </sub>
